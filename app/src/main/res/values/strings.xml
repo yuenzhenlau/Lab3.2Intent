@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticalApplication2</string>
+    <string name = "firstNumEditText">Weight</string>
+    <string name = "secondNumEditText">Height</string>
+    <string name = "addBtn">CalculateBMI</string>
+
+    <string name = "underweight">Underweight</string>
+    <string name = "normal">Normal</string>
+    <string name = "overweight">Overweight</string>
+
+</resources>
